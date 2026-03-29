@@ -1,0 +1,5 @@
+Model,Accuracy,Precision_Churn,Recall_Churn,F1_Churn
+Logistic Regression,0.8055,0.6572,0.5588,0.604
+Random Forest,0.7786,0.6062,0.4733,0.5315
+Random Forest (Tuned),0.7587,0.5315,0.7674,0.628
+Rule-Based Logic,0.6877,0.4527,0.8449,0.5896
